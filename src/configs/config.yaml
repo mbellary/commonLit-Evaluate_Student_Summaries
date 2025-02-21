@@ -1,0 +1,10 @@
+
+data_stores:
+  root :  "C:/Users/bmoha/Work/datasets/commonlit-evaluate-student-summaries/"
+  prompts_train: "prompts_train.csv"
+  summaries_train: "summaries_train.csv"
+
+hf_models:
+  name : "microsoft/deberta-v3-base"
+  path : "models/dberta-base"
+
