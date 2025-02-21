@@ -1,0 +1,8 @@
+#polars-lts-cpu # For CPUs before 2012
+polars
+torch
+transformers
+sentencepiece
+nltk
+spacy
+protobuf
