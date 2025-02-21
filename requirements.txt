@@ -6,3 +6,4 @@ sentencepiece
 nltk
 spacy
 protobuf
+pyspellchecker
